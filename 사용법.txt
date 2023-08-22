@@ -4,3 +4,7 @@ git commit -m "이름"
 git push origin main
 
 git pull
+
+특정 파일 제외하고 push 하기
+걍 파일명 쓰면 댐
+근데 특정 확장자 제외 하려면 *붙이고 확장자명 쓰기
